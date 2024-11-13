@@ -17,7 +17,7 @@
                 tassels.
             </p>
         </div>
-        <DownScroll cardId="#card1" />
+        <!-- <DownScroll cardId="#card1" /> -->
         <div class="main-content eng">
             <SideBarEng />
             <div class="card-container">

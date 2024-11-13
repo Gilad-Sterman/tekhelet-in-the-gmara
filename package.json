@@ -1,7 +1,7 @@
 {
   "name": "page-2",
   "version": "0.0.0",
-  "homepage": "https://github.com/Gilad-Sterman/ptil-tekhelet-vue/",
+  "homepage": "https://github.com/Gilad-Sterman/tekhelet-in-the-gmara/",
   "private": true,
   "scripts": {
     "predeploy" : "npm run build",
